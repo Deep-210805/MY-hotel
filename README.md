@@ -50,8 +50,8 @@ width:100%;
         border-radius: 13px;
         width: 190px;
         height:260px;
-        margin:20px;
-        padding:2px;
+        margin:15px;
+
        }
        .imggulab:hover{
         transform: scale(1.1);
@@ -62,8 +62,8 @@ width:100%;
         border-radius: 13px;
         width: 190px;
         height:260px;
-        margin:20px;
-        padding:2px;
+        margin:15px;
+    
        }
        .imgbarfi:hover{
         transform: scale(1.1);
@@ -74,8 +74,8 @@ width:100%;
         border-radius: 13px;
         width: 190px;
         height:260px;
-        margin:20px;
-        padding:2px;
+        margin:15px;
+    
        }
        .imggol:hover{
         transform: scale(1.1);
