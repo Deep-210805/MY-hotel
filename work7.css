@@ -41,6 +41,7 @@ width:100%;
         width: 190px;
         height:260px;
         margin:20px;
+          align-text:center;
        }
        .imggulab:hover{
         transform: scale(1.1);
