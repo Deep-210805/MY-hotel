@@ -17,8 +17,8 @@
         background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
         border:#9599E2 4px;
 
-        height:100vh;
-width:100vw;
+        height:100%;
+width:100%;
           }
           .heading{
             font-size: 60px;
@@ -51,7 +51,7 @@ width:100vw;
         width: 190px;
         height:260px;
         margin:20px;
-        padding:20px;
+        padding:2px;
        }
        .imggulab:hover{
         transform: scale(1.1);
@@ -63,7 +63,7 @@ width:100vw;
         width: 190px;
         height:260px;
         margin:20px;
-        padding:20px;
+        padding:2px;
        }
        .imgbarfi:hover{
         transform: scale(1.1);
@@ -75,7 +75,7 @@ width:100vw;
         width: 190px;
         height:260px;
         margin:20px;
-        padding:20px;
+        padding:2px;
        }
        .imggol:hover{
         transform: scale(1.1);
